@@ -99,6 +99,10 @@ export default {
  color: black !important
 }
 
+.link_black{
+ color: black !important
+}
+
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
   color: white;
