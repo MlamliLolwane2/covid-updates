@@ -45,16 +45,16 @@
               <u>External Resources</u>
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="nav-link font-weight-light link_black" style="color:red" href="https://www.who.int/health-topics/coronavirus#tab=tab_1"
+              <a class="nav-link font-weight-light link_black" style="color:black" href="https://www.who.int/health-topics/coronavirus#tab=tab_1"
                target="_blank">
                 <u>What is Covid-19</u>
               </a>
-              <a class="nav-link font-weight-light link_black" style="color:red" href="https://www.who.int/health-topics/coronavirus#tab=tab_2" 
+              <a class="nav-link font-weight-light link_black" style="color:black" href="https://www.who.int/health-topics/coronavirus#tab=tab_2" 
               target="_blank">
                 <u>How to prevent Spread</u>
               </a>
 
-              <a class="nav-link font-weight-light link_black" style="color:red" href="https://www.who.int/health-topics/coronavirus#tab=tab_3"
+              <a class="nav-link font-weight-light link_black" style="color:black" href="https://www.who.int/health-topics/coronavirus#tab=tab_3"
                target="_blank">
                 <u>Symptoms</u>
               </a>
