@@ -2,7 +2,7 @@
   <div>
     <About />
     <Contact/>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark-blue">
       <router-link to="/" class="navbar-brand">Covid Updates</router-link>
       <button
         class="navbar-toggler"
@@ -86,13 +86,16 @@ export default {
   font-weight: bold;
 }
 
+.bg-dark-blue {
+    background-color: #36C !important;
+}
+
 .bg-light {
   background-color: teal !important;
 }
 
-.navbar-light .navbar-nav .nav-link {
-  color: snow;
-  font-size: 17px;
+.navbar-dark .navbar-nav .nav-link {
+    color: snow;
 }
 
 .link_black:hover{
